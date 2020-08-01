@@ -1,4 +1,2 @@
-
-added something in master
-code for branch 2020
+multiplication of two numbers
 

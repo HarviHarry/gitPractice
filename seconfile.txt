@@ -1,4 +1,0 @@
-multiplication of two numbers
-written line for stash checking
-master line for stash checking
-
